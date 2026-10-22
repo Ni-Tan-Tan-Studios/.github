@@ -26,7 +26,7 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 <div align="center">
 
-### ⚡ Number Rush
+### Number Rush
 
 <img src="./assets/logo_number_rush_dark_1400x520.png"
      alt="Logo oficial de Number Rush"
@@ -42,7 +42,7 @@ Pon a prueba tus reflejos y tu estrategia, disfruta desafíos individuales y enf
 
 ---
 
-### 📬 Última Recolección
+### Última Recolección
 
 <img src="./assets/titulo_ultima_recoleccion.png"
      alt="Logo oficial de Última Recolección"
