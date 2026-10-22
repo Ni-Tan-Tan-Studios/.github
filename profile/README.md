@@ -28,7 +28,9 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 ### ⚡ Number Rush
 
-<img src="./assets/number-rush-logo.png" alt="Logo oficial de Number Rush" width="380">
+<img src="./assets/logo_number_rush_dark_1400x520.png"
+     alt="Logo oficial de Number Rush"
+     width="380">
 
 **Piensa rápido. Juega más rápido.**
 
@@ -42,7 +44,9 @@ Pon a prueba tus reflejos y tu estrategia, disfruta desafíos individuales y enf
 
 ### 📬 Última Recolección
 
-<img src="./assets/ultima-recoleccion-logo.png" alt="Logo oficial de Última Recolección" width="380">
+<img src="./assets/titulo_ultima_recoleccion.png"
+     alt="Logo oficial de Última Recolección"
+     width="380">
 
 **Algunas historias merecen ser entregadas.**
 
