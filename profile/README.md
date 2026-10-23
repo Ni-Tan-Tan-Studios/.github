@@ -26,6 +26,20 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 <div align="center">
 
+### ÚLTIMA EMISIÓN
+
+**El espectáculo termina. Solo uno sale con vida.**
+
+Un *party game* competitivo en 3D ambientado en un concurso televisivo distópico. Entre **4 y 8 concursantes** compiten en una sucesión impredecible de minijuegos mientras el público disfruta del espectáculo.
+
+Las puntuaciones acumuladas permanecen ocultas y nadie sabe cuándo terminará la emisión. Al final, **solo un concursante gana la fortuna y sobrevive**.
+
+Estamos diseñando una experiencia de partidas sociales, rivalidades, alianzas temporales y finales llenos de tensión, con modos **local, online y mixto**.
+
+**PC · Steam (objetivo) · Unreal Engine 5 · En preproducción**
+
+---
+
 ### Number Rush
 
 <img src="./assets/logo_number_rush_dark_1400x520.png"
@@ -87,6 +101,12 @@ We create original gaming experiences designed to challenge, surprise, and conne
 Our passion is to explore new ideas, experiment with different genres, and build games with their own unique identity.
 
 ### Our Games
+
+**📺 ÚLTIMA EMISIÓN**
+
+A dystopian 3D multiplayer party game where 4–8 contestants compete in unpredictable minigames. Scores stay hidden, the show's length is a mystery, and only one contestant survives the finale.
+
+*PC · Steam (planned) · Unreal Engine 5 · Pre-production*
 
 **⚡ Number Rush**
 
