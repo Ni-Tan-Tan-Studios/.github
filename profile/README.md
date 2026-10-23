@@ -28,11 +28,9 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 ### ÚLTIMA EMISIÓN
 
-<a href="https://drive.google.com/file/d/1zv6pX6ZNkvve5F3s2GPaG1VhER5KgvdD/view">
-  <img src="https://drive.google.com/thumbnail?id=1zv6pX6ZNkvve5F3s2GPaG1VhER5KgvdD&sz=w1000"
+  <img src="./assets/ULTIMA_EMISION_Logo_Con_Triangulo.png"
        alt="Logo de ÚLTIMA EMISIÓN con triángulo"
-       width="480">
-</a>
+       width="380">
 
 **El espectáculo termina. Solo uno sale con vida.**
 
