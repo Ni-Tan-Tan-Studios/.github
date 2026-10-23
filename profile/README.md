@@ -28,6 +28,12 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 ### ÚLTIMA EMISIÓN
 
+<a href="https://drive.google.com/file/d/1zv6pX6ZNkvve5F3s2GPaG1VhER5KgvdD/view">
+  <img src="https://drive.google.com/thumbnail?id=1zv6pX6ZNkvve5F3s2GPaG1VhER5KgvdD&sz=w1000"
+       alt="Logo de ÚLTIMA EMISIÓN con triángulo"
+       width="480">
+</a>
+
 **El espectáculo termina. Solo uno sale con vida.**
 
 Un *party game* competitivo en 3D ambientado en un concurso televisivo distópico. Entre **4 y 8 concursantes** compiten en una sucesión impredecible de minijuegos mientras el público disfruta del espectáculo.
