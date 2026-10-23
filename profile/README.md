@@ -28,7 +28,7 @@ Nos apasiona experimentar con nuevas ideas, explorar diferentes géneros y const
 
 ### ÚLTIMA EMISIÓN
 
-  <img src="./assets/ULTIMA_EMISION_Logo_Con_Triangulo.png"
+  <img src="./assets/ULTIMA_EMISION_Logo_Con_Triangulo_SinFondo.png"
        alt="Logo de ÚLTIMA EMISIÓN con triángulo"
        width="380">
 
